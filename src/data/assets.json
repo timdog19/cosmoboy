@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name" : "Strupstrich",
+        "name" : "#1",
         "imageUrl" : "https://lh3.googleusercontent.com/Hcmpht5XVyXmtYsgBLK0FElqcqPo42ahUdTESwsym0a86zG1Q8CxXJcIoCYKVJa4BTFk5wd9VBAXStwpZwE-X5m08Ie855NPQc_g8g=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -21,7 +21,7 @@
     },
     {
         "id": 1,
-        "name" : "Punkstrich",
+        "name" : "#2",
         "imageUrl" : "https://lh3.googleusercontent.com/6unkBS0a97X8XkZoGUFviTucrXUIyNVVWdPh4P9rLlPoM23zxXtHIXOKR90FOq7cPbu1bDufvJ5A5nwbHyMnR74eG5xHeqt_xAiHhGQ=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -41,7 +41,7 @@
     },
     {
         "id": 1,
-        "name" : "Sherstrich",
+        "name" : "#3",
         "imageUrl" : "https://lh3.googleusercontent.com/EhYtrUGaUGBzQjcyT9ZLMNfpXpp65zwhsDbRX_99AEt2Yv98VB8aQeDVgoInRsIIaz24JIwwNjMLitTRZdR4PqQNH544_GothqPSoSc=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -61,7 +61,7 @@
     },
     {
         "id": 1,
-        "name" : "Acestrich",
+        "name" : "#4",
         "imageUrl" : "https://lh3.googleusercontent.com/F5TkeTMVCbyNRT2Gmck8onSSxbnYnByh8HVb1cpcz_oARUv5iR6ibdefr4GHgrlYUr-kfCi3dEtbHmrJxFbOCaccLqRoqmLQU905ng=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -81,7 +81,7 @@
     },
     {
         "id": 1,
-        "name" : "Clowstrich",
+        "name" : "#5",
         "imageUrl" : "https://lh3.googleusercontent.com/Qrd2_kk4fUCrF6tzyFQD9Ps0Fl5oXKcVDgZg8Kmga3JxnNHCBjVAx4TFhG3Ck7tVE-q7o97s6UWooUnwr1ZT4_qMBqTWgX0gzh93sJ8=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -101,7 +101,7 @@
     },
     {
         "id": 1,
-        "name" : "Supstrich",
+        "name" : "#6",
         "imageUrl" : "https://lh3.googleusercontent.com/xSQD2r6RznDi7ZLUUhaPXgAVsSTOLGUiGj9yZ15kAPM323iNMidOrMpeKWmzQ7_q5XogHx2BLGM1AD3znXk5ANiKX0xtQUIpMQaqn6s=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -121,7 +121,7 @@
     },
     {
         "id": 1,
-        "name" : "Docstrich",
+        "name" : "#7",
         "imageUrl" : "https://lh3.googleusercontent.com/WBdUmFlrRGqLq4TSmGUh1oPtcqjkQru6xaZQElPhNd-a62M29TKCNR4SUIDWOlz8FMexBZSSoxjI9ntih5_1bvSrziGZ-7BkyP6Q=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -141,7 +141,7 @@
     },
     {
         "id": 1,
-        "name" : "Santstrich",
+        "name" : "#8",
         "imageUrl" : "https://lh3.googleusercontent.com/3YrykNiiFAdJA2OPZ_P5tsWL_aBUEqVWEn2KPhiNCGgH-7ZjoyrN-q0lxtu3aBv4Rxt1vY8k6_NOgfzM6sPciGM34agMcvf8nA9f0A=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -161,7 +161,7 @@
     },
     {
         "id": 1,
-        "name" : "Robstrich",
+        "name" : "#9",
         "imageUrl" : "https://lh3.googleusercontent.com/Q_ZxbW8W0J1yevvcBQ27TwcbLolf8mhXJap97TxCzd2k2NrimTL95RDtBwzZ76huJTDympUVAX1cm9UdyEv9TvqqdcNBXG2qH5r16A=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -181,7 +181,7 @@
     },
     {
         "id": 1,
-        "name" : "Zombstrich",
+        "name" : "#10",
         "imageUrl" : "https://lh3.googleusercontent.com/3XzfUDxYnHqLXKoGEHz1O4KRJVOVMYKvDQZJBMitn9DpEDiWAE3cPK4UcLDV0NzOYYqOjjMegSEQZBZdg0QdJ_tBzFHc-Yun_udSoA=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -201,7 +201,7 @@
     },
     {
         "id": 1,
-        "name" : "Knightstrich",
+        "name" : "#11",
         "imageUrl" : "https://lh3.googleusercontent.com/RXqtX37FefeSCyIejSAVHSITv5so_hVfkaa3TUZ5G4HqT0-fK2Rd25mS6z4jN084_RagLUCdLyAcaQY-GayeLp9hVQyTIWsEhrEF=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
@@ -221,7 +221,7 @@
     },
     {
         "id": 1,
-        "name" : "Bogstrich",
+        "name" : "#12",
         "imageUrl" : "https://lh3.googleusercontent.com/Mit3yfwA8-kq9SYR99dJmSlKDm0hQKt8xNi0h10hNDSb9cKk4cFUogcn5auwwentuxZJtRekHfmyfyUnEVonQxbsHH8Gm-BgwqC0QQ=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
