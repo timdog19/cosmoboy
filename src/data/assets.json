@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name" : "#1",
+        "imageUrl" : "https://lh3.googleusercontent.com/Solbe9Sx8T3BLnSPfb4yloz2--qi6pdYbXZqEeNzo0ExfFacqDVGkPI_CPFiEQtzTsQ7ozdSoU4-8qAZ9pA4mfRBf98ANXU6VdL7=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Light",
+                "rate" : 67
+            },
+            "type" : {
+                "name" : "Male",
+                "rate" : 75
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#2",
+        "imageUrl" : "https://lh3.googleusercontent.com/7ERp4JLeN1aX9YX_EDFFM_yd51f26S3vGbXt4K2yxPvqrpJ424nj85e9iZhj3Llc9TwXI71QYqSzB7ouRd5f5GJf0D0sSyUb3NmuYg=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Light",
+                "rate" : 67
+            },
+            "type" : {
+                "name" : "Female",
+                "rate" : 25
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#3",
+        "imageUrl" : "https://lh3.googleusercontent.com/IrpHDlTHX0ijeGCB2Ucp7thMuD4NDHRkEsboGz3C0NF85lEH9HclZshHhXapsePsDPANVcv9ZCWp-_LW50-WxDenC14K66Qq0_85EJo=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Light",
+                "rate" : 67
+            },
+            "type" : {
+                "name" : "Male",
+                "rate" : 75
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#4",
+        "imageUrl" : "https://lh3.googleusercontent.com/_8cyr7ubsqDUPdi-fM-sEPehZOXEmLpRMQMgmtJfgn065J8j1zqZYwVGR5BBC4hiX_Hwc1wtH-6SDhqyAK8AkAFDUZK6uSLSrAyYVfU=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Light",
+                "rate" : 67
+            },
+            "type" : {
+                "name" : "Female",
+                "rate" : 75
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#5",
+        "imageUrl" : "https://lh3.googleusercontent.com/RNOAsBh9efFOvm9ZankwA49CSjp8TAgw77M1RIz3dTQkqNBHUfySKhFVT8EyJtma2VSX-regdb0SVVRgtZRYz_p9eaqLWMrnTqe98-k=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Light",
+                "rate" : 67
+            },
+            "type" : {
+                "name" : "Male",
+                "rate" : 75
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#6",
+        "imageUrl" : "https://lh3.googleusercontent.com/Jxeek68Sexfl_Vfs7rCGT8lEIsK_hvnOHC4zrHinahZWWNS-3A2XS69edI3mw_jVI7MRS_3BqOu_Z1JZFRYf_G6xL2ViSjOY_bfmAF0=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Light",
+                "rate" : 67
+            },
+            "type" : {
+                "name" : "Female",
+                "rate" : 75
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#7",
+        "imageUrl" : "https://lh3.googleusercontent.com/hJLF2cK3aIdzTR65G7JOS_rOD7EmFMO2-FUah1_JKKlTscBIUf0WcM1Jwjd2wKTSHZqZP-tfqtcc9wsBOW1CBaSjSbNhnOM0gSdqs1A=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Light",
+                "rate" : 67
+            },
+            "type" : {
+                "name" : "Male",
+                "rate" : 75
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#8",
+        "imageUrl" : "https://lh3.googleusercontent.com/W-pNw5Mzy_PyC3pkL5jIIUPAy3TRyBaW5G8FPqPPyWoUGltD_cA75X0Xo708OESPYgPb7bjTzrr_L-3bR1E-GYNLWVVW9PKyAmgsUg=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Light",
+                "rate" : 67
+            },
+            "type" : {
+                "name" : "Female",
+                "rate" : 75
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#9",
+        "imageUrl" : "https://lh3.googleusercontent.com/pSXn7gCvm25Ulowhx51YFBj4eP4XJNosTEX6MAu05KZbEKm_hpw6Ty8Z1jWWdGXgCPpWNYTmLhMSTnwaXM83_IYbKmrYx3VoGnEIu7U=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Dark",
+                "rate" : 33
+            },
+            "type" : {
+                "name" : "Male",
+                "rate" : 25
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#10",
+        "imageUrl" : "https://lh3.googleusercontent.com/X61anBd92oViZMWnRCHE8zdk5hsYHrIXAtewqjTp9aACEkflBHNEgDrM5q7bh8jVP6jaTjN83N4hk1zheqhWTVWfvJ7m2Sg13VKvqA=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Dark",
+                "rate" : 33
+            },
+            "type" : {
+                "name" : "Female",
+                "rate" : 75
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#11",
+        "imageUrl" : "https://lh3.googleusercontent.com/rAuoOHpjc5zztijdFbENBzbtjCkaQW75eJYO8HSrLGYUyIrUX_uCcwYqiq85fVPz-8NSOsZubaSM2gEyLtTkpALa1vp2omnD_4Zh2XY=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Dark",
+                "rate" : 33
+            },
+            "type" : {
+                "name" : "Male",
+                "rate" : 75
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name" : "#12",
+        "imageUrl" : "https://lh3.googleusercontent.com/2yRu5M_qy5hUyIBsr5h4S3khtNlKCG6UNmsRxKPbvdCKyUb3NLUpvhVqho7FGI4nnKeGtQMbGT8BghoJoK5twkf1FzL021dP8fMj=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Dark",
+                "rate" : 67
+            },
+            "type" : {
+                "name" : "Female",
+                "rate" : 75
+            }
+        }
+    }
+]

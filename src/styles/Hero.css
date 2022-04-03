@@ -1,0 +1,61 @@
+.bg{
+  position: relative;
+}
+
+.bg::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: url("../images/bg.png");
+  background-size: contain;
+  opacity: 0.2;
+}
+
+.mt-16{
+    margin-top: 150px !important;
+}
+
+.mt-10{
+  margin-top: 100px !important;
+}
+
+
+.custom-container{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.swiper-container {
+    width: 500px;
+    overflow: unset !important;
+  }
+
+.swiper {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -150px;
+    margin-top: -150px;
+  }
+  
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+  }
+
+
+
+  .py-7 {
+    padding-top: 5rem !important;
+    padding-bottom: 5rem !important;
+  }
