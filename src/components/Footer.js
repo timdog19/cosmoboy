@@ -44,6 +44,9 @@ export const Footer = (props) => {
                     <Typography align="start" variant="h4" gutterBottom className={classes.centertextbreakpoint}>
                       Cosmoboy
                     </Typography>
+                    <Typography align="start" className={classes.centertextbreakpoint, classes.pstyle}>
+                      2022 Copyright. All Rights Reserved.
+                    </Typography>
                   </Stack>
                 </Grid>
                 <Grid item xs={12} md={12} lg={3} className={classes.footerbreakpoint} justifyContent="space-evenly" alignItems="center">
