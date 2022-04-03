@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name" : "#1",
-        "imageUrl" : "https://lh3.googleusercontent.com/Solbe9Sx8T3BLnSPfb4yloz2--qi6pdYbXZqEeNzo0ExfFacqDVGkPI_CPFiEQtzTsQ7ozdSoU4-8qAZ9pA4mfRBf98ANXU6VdL7=w600",
+        "name" : "Strupstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/Hcmpht5XVyXmtYsgBLK0FElqcqPo42ahUdTESwsym0a86zG1Q8CxXJcIoCYKVJa4BTFk5wd9VBAXStwpZwE-X5m08Ie855NPQc_g8g=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
             "accentColor" : {
@@ -13,12 +13,16 @@
                 "name" : "Male",
                 "rate" : 75
             }
+        },
+        "levels" : {
+            "power" : 10,
+            "stamina" : 50
         }
     },
     {
         "id": 1,
-        "name" : "#2",
-        "imageUrl" : "https://lh3.googleusercontent.com/7ERp4JLeN1aX9YX_EDFFM_yd51f26S3vGbXt4K2yxPvqrpJ424nj85e9iZhj3Llc9TwXI71QYqSzB7ouRd5f5GJf0D0sSyUb3NmuYg=w600",
+        "name" : "Punkstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/6unkBS0a97X8XkZoGUFviTucrXUIyNVVWdPh4P9rLlPoM23zxXtHIXOKR90FOq7cPbu1bDufvJ5A5nwbHyMnR74eG5xHeqt_xAiHhGQ=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
             "accentColor" : {
@@ -29,12 +33,16 @@
                 "name" : "Female",
                 "rate" : 25
             }
+        },
+        "levels" : {
+            "power" : 15,
+            "stamina" : 55
         }
     },
     {
         "id": 1,
-        "name" : "#3",
-        "imageUrl" : "https://lh3.googleusercontent.com/IrpHDlTHX0ijeGCB2Ucp7thMuD4NDHRkEsboGz3C0NF85lEH9HclZshHhXapsePsDPANVcv9ZCWp-_LW50-WxDenC14K66Qq0_85EJo=w600",
+        "name" : "Sherstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/EhYtrUGaUGBzQjcyT9ZLMNfpXpp65zwhsDbRX_99AEt2Yv98VB8aQeDVgoInRsIIaz24JIwwNjMLitTRZdR4PqQNH544_GothqPSoSc=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
             "accentColor" : {
@@ -45,28 +53,16 @@
                 "name" : "Male",
                 "rate" : 75
             }
+        },
+        "levels" : {
+            "power" : 15,
+            "stamina" : 55
         }
     },
     {
         "id": 1,
-        "name" : "#4",
-        "imageUrl" : "https://lh3.googleusercontent.com/_8cyr7ubsqDUPdi-fM-sEPehZOXEmLpRMQMgmtJfgn065J8j1zqZYwVGR5BBC4hiX_Hwc1wtH-6SDhqyAK8AkAFDUZK6uSLSrAyYVfU=w600",
-        "assetUrl" : "https://opensea.io/",
-        "properties" : {
-            "accentColor" : {
-                "name" : "Light",
-                "rate" : 67
-            },
-            "type" : {
-                "name" : "Female",
-                "rate" : 75
-            }
-        }
-    },
-    {
-        "id": 1,
-        "name" : "#5",
-        "imageUrl" : "https://lh3.googleusercontent.com/RNOAsBh9efFOvm9ZankwA49CSjp8TAgw77M1RIz3dTQkqNBHUfySKhFVT8EyJtma2VSX-regdb0SVVRgtZRYz_p9eaqLWMrnTqe98-k=w600",
+        "name" : "Acestrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/F5TkeTMVCbyNRT2Gmck8onSSxbnYnByh8HVb1cpcz_oARUv5iR6ibdefr4GHgrlYUr-kfCi3dEtbHmrJxFbOCaccLqRoqmLQU905ng=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
             "accentColor" : {
@@ -77,12 +73,16 @@
                 "name" : "Male",
                 "rate" : 75
             }
+        },
+        "levels" : {
+            "power" : 18,
+            "stamina" : 60
         }
     },
     {
         "id": 1,
-        "name" : "#6",
-        "imageUrl" : "https://lh3.googleusercontent.com/Jxeek68Sexfl_Vfs7rCGT8lEIsK_hvnOHC4zrHinahZWWNS-3A2XS69edI3mw_jVI7MRS_3BqOu_Z1JZFRYf_G6xL2ViSjOY_bfmAF0=w600",
+        "name" : "Clowstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/Qrd2_kk4fUCrF6tzyFQD9Ps0Fl5oXKcVDgZg8Kmga3JxnNHCBjVAx4TFhG3Ck7tVE-q7o97s6UWooUnwr1ZT4_qMBqTWgX0gzh93sJ8=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
             "accentColor" : {
@@ -93,12 +93,16 @@
                 "name" : "Female",
                 "rate" : 75
             }
+        },
+        "levels" : {
+            "power" : 50,
+            "stamina" : 65
         }
     },
     {
         "id": 1,
-        "name" : "#7",
-        "imageUrl" : "https://lh3.googleusercontent.com/hJLF2cK3aIdzTR65G7JOS_rOD7EmFMO2-FUah1_JKKlTscBIUf0WcM1Jwjd2wKTSHZqZP-tfqtcc9wsBOW1CBaSjSbNhnOM0gSdqs1A=w600",
+        "name" : "Supstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/xSQD2r6RznDi7ZLUUhaPXgAVsSTOLGUiGj9yZ15kAPM323iNMidOrMpeKWmzQ7_q5XogHx2BLGM1AD3znXk5ANiKX0xtQUIpMQaqn6s=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
             "accentColor" : {
@@ -109,12 +113,16 @@
                 "name" : "Male",
                 "rate" : 75
             }
+        },
+        "levels" : {
+            "power" : 55,
+            "stamina" : 80
         }
     },
     {
         "id": 1,
-        "name" : "#8",
-        "imageUrl" : "https://lh3.googleusercontent.com/W-pNw5Mzy_PyC3pkL5jIIUPAy3TRyBaW5G8FPqPPyWoUGltD_cA75X0Xo708OESPYgPb7bjTzrr_L-3bR1E-GYNLWVVW9PKyAmgsUg=w600",
+        "name" : "Docstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/WBdUmFlrRGqLq4TSmGUh1oPtcqjkQru6xaZQElPhNd-a62M29TKCNR4SUIDWOlz8FMexBZSSoxjI9ntih5_1bvSrziGZ-7BkyP6Q=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
             "accentColor" : {
@@ -125,12 +133,36 @@
                 "name" : "Female",
                 "rate" : 75
             }
+        },
+        "levels" : {
+            "power" : 60,
+            "stamina" : 65
         }
     },
     {
         "id": 1,
-        "name" : "#9",
-        "imageUrl" : "https://lh3.googleusercontent.com/pSXn7gCvm25Ulowhx51YFBj4eP4XJNosTEX6MAu05KZbEKm_hpw6Ty8Z1jWWdGXgCPpWNYTmLhMSTnwaXM83_IYbKmrYx3VoGnEIu7U=w600",
+        "name" : "Santstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/3YrykNiiFAdJA2OPZ_P5tsWL_aBUEqVWEn2KPhiNCGgH-7ZjoyrN-q0lxtu3aBv4Rxt1vY8k6_NOgfzM6sPciGM34agMcvf8nA9f0A=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Light",
+                "rate" : 67
+            },
+            "type" : {
+                "name" : "Male",
+                "rate" : 75
+            }
+        },
+        "levels" : {
+            "power" : 60,
+            "stamina" : 75
+        }
+    },
+    {
+        "id": 1,
+        "name" : "Robstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/Q_ZxbW8W0J1yevvcBQ27TwcbLolf8mhXJap97TxCzd2k2NrimTL95RDtBwzZ76huJTDympUVAX1cm9UdyEv9TvqqdcNBXG2qH5r16A=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
             "accentColor" : {
@@ -138,31 +170,19 @@
                 "rate" : 33
             },
             "type" : {
-                "name" : "Male",
+                "name" : "Female",
                 "rate" : 25
             }
+        },
+        "levels" : {
+            "power" : 75,
+            "stamina" : 90
         }
     },
     {
         "id": 1,
-        "name" : "#10",
-        "imageUrl" : "https://lh3.googleusercontent.com/X61anBd92oViZMWnRCHE8zdk5hsYHrIXAtewqjTp9aACEkflBHNEgDrM5q7bh8jVP6jaTjN83N4hk1zheqhWTVWfvJ7m2Sg13VKvqA=w600",
-        "assetUrl" : "https://opensea.io/",
-        "properties" : {
-            "accentColor" : {
-                "name" : "Dark",
-                "rate" : 33
-            },
-            "type" : {
-                "name" : "Female",
-                "rate" : 75
-            }
-        }
-    },
-    {
-        "id": 1,
-        "name" : "#11",
-        "imageUrl" : "https://lh3.googleusercontent.com/rAuoOHpjc5zztijdFbENBzbtjCkaQW75eJYO8HSrLGYUyIrUX_uCcwYqiq85fVPz-8NSOsZubaSM2gEyLtTkpALa1vp2omnD_4Zh2XY=w600",
+        "name" : "Zombstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/3XzfUDxYnHqLXKoGEHz1O4KRJVOVMYKvDQZJBMitn9DpEDiWAE3cPK4UcLDV0NzOYYqOjjMegSEQZBZdg0QdJ_tBzFHc-Yun_udSoA=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
             "accentColor" : {
@@ -173,12 +193,36 @@
                 "name" : "Male",
                 "rate" : 75
             }
+        },
+        "levels" : {
+            "power" : 80,
+            "stamina" : 65
         }
     },
     {
         "id": 1,
-        "name" : "#12",
-        "imageUrl" : "https://lh3.googleusercontent.com/2yRu5M_qy5hUyIBsr5h4S3khtNlKCG6UNmsRxKPbvdCKyUb3NLUpvhVqho7FGI4nnKeGtQMbGT8BghoJoK5twkf1FzL021dP8fMj=w600",
+        "name" : "Knightstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/RXqtX37FefeSCyIejSAVHSITv5so_hVfkaa3TUZ5G4HqT0-fK2Rd25mS6z4jN084_RagLUCdLyAcaQY-GayeLp9hVQyTIWsEhrEF=w600",
+        "assetUrl" : "https://opensea.io/",
+        "properties" : {
+            "accentColor" : {
+                "name" : "Dark",
+                "rate" : 33
+            },
+            "type" : {
+                "name" : "Male",
+                "rate" : 75
+            }
+        },
+        "levels" : {
+            "power" : 85,
+            "stamina" : 85
+        }
+    },
+    {
+        "id": 1,
+        "name" : "Bogstrich",
+        "imageUrl" : "https://lh3.googleusercontent.com/Mit3yfwA8-kq9SYR99dJmSlKDm0hQKt8xNi0h10hNDSb9cKk4cFUogcn5auwwentuxZJtRekHfmyfyUnEVonQxbsHH8Gm-BgwqC0QQ=w600",
         "assetUrl" : "https://opensea.io/",
         "properties" : {
             "accentColor" : {
@@ -186,9 +230,13 @@
                 "rate" : 67
             },
             "type" : {
-                "name" : "Female",
+                "name" : "Male",
                 "rate" : 75
             }
+        },
+        "levels" : {
+            "power" : 100,
+            "stamina" : 100
         }
     }
 ]
